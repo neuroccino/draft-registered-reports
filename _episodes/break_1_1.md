@@ -2,7 +2,7 @@
 title: Break
 teaching: null
 exercises: null
-duration: 15
+duration: 16
 summary: Short tea or coffee break.
 questions: null
 objectives: null
